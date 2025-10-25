@@ -13,4 +13,6 @@ const productSchema = new mongoose.Schema({
   thumbnail: String,
 });
 
-export default mongoose.model("Products", productSchema);
+const Product = mongoose.model("Product", productSchema);
+
+export default Product;
