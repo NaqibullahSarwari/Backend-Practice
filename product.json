@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 14 Pro",
+    "description": "The latest iPhone with advanced camera system, A16 Bionic chip, and stunning display technology",
+    "price": 999.99,
+    "discountPercentage": 15,
+    "rating": 4.7,
+    "stock": 45,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://example.com/images/iphone-14-pro.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S23 Ultra",
+    "description": "Premium Android smartphone with S Pen, 200MP camera, and powerful Snapdragon processor",
+    "price": 1199.99,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 32,
+    "brand": "Samsung",
+    "category": "smartphones",
+    "thumbnail": "https://example.com/images/galaxy-s23-ultra.jpg"
+  },
+  {
+    "id": 3,
+    "title": "MacBook Pro 16",
+    "description": "Professional laptop with M2 Pro chip, stunning Liquid Retina XDR display, and all-day battery life",
+    "price": 2499.99,
+    "discountPercentage": 5,
+    "rating": 4.9,
+    "stock": 18,
+    "brand": "Apple",
+    "category": "laptops",
+    "thumbnail": "https://example.com/images/macbook-pro-16.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Sony WH-1000XM5",
+    "description": "Industry-leading noise canceling wireless headphones with exceptional sound quality and comfort",
+    "price": 399.99,
+    "discountPercentage": 20,
+    "rating": 4.6,
+    "stock": 67,
+    "brand": "Sony",
+    "category": "audio",
+    "thumbnail": "https://example.com/images/sony-wh1000xm5.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Dell XPS 15",
+    "description": "High-performance laptop with Intel Core i7, NVIDIA graphics, and InfinityEdge display",
+    "price": 1799.99,
+    "discountPercentage": 12,
+    "rating": 4.5,
+    "stock": 25,
+    "brand": "Dell",
+    "category": "laptops",
+    "thumbnail": "https://example.com/images/dell-xps-15.jpg"
+  },
+  {
+    "id": 6,
+    "title": "iPad Air",
+    "description": "Versatile tablet with M1 chip, 10.9-inch Liquid Retina display, and support for Apple Pencil",
+    "price": 599.99,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 53,
+    "brand": "Apple",
+    "category": "tablets",
+    "thumbnail": "https://example.com/images/ipad-air.jpg"
+  },
+  {
+    "id": 7,
+    "title": "AirPods Pro 2",
+    "description": "Wireless earbuds with active noise cancellation, adaptive audio, and personalized spatial audio",
+    "price": 249.99,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "stock": 120,
+    "brand": "Apple",
+    "category": "audio",
+    "thumbnail": "https://example.com/images/airpods-pro-2.jpg"
+  },
+  {
+    "id": 8,
+    "title": "LG OLED C3 55-inch",
+    "description": "Premium 4K OLED TV with stunning picture quality, gaming features, and webOS smart platform",
+    "price": 1499.99,
+    "discountPercentage": 18,
+    "rating": 4.9,
+    "stock": 15,
+    "brand": "LG",
+    "category": "televisions",
+    "thumbnail": "https://example.com/images/lg-oled-c3.jpg"
+  },
+  {
+    "id": 9,
+    "title": "PlayStation 5",
+    "description": "Next-gen gaming console with ultra-high-speed SSD, ray tracing, and immersive gaming experience",
+    "price": 499.99,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "stock": 8,
+    "brand": "Sony",
+    "category": "gaming",
+    "thumbnail": "https://example.com/images/playstation-5.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Canon EOS R6 Mark II",
+    "description": "Professional mirrorless camera with 24MP sensor, advanced autofocus, and 4K 60p video recording",
+    "price": 2499.99,
+    "discountPercentage": 7,
+    "rating": 4.9,
+    "stock": 12,
+    "brand": "Canon",
+    "category": "cameras",
+    "thumbnail": "https://example.com/images/canon-eos-r6-ii.jpg"
+  }
+]
